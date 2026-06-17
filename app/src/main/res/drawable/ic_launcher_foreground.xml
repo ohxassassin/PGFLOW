@@ -1,0 +1,60 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Building 1 (Medium Apartment Block) -->
+    <path
+        android:fillColor="#DCE1FF"
+        android:pathData="M24,84 L24,44 L50,44 L50,84 Z" />
+        
+    <!-- Building 2 (Tall High-Rise Tower Block) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,84 L50,24 L78,24 L78,84 Z" />
+        
+    <!-- Architectural highlight roof on Building 1 -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M24,44 L50,38 L50,44 Z" />
+
+    <!-- Architectural highlight roof on Building 2 -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M50,24 L78,18 L78,24 Z" />
+
+    <!-- Windows - Building 1 (Medium apartment block) -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M30,48 H36 V54 H30 Z M40,48 H46 V54 H40 Z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M30,58 H36 V64 H30 Z M40,58 H46 V64 H40 Z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M30,68 H36 V74 H30 Z M40,68 H46 V74 H40 Z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M30,78 H36 V84 H30 Z M40,78 H46 V84 H40 Z" />
+
+    <!-- Windows - Building 2 (Tall premium complex) -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M56,28 H62 V34 H56 Z M68,28 H74 V34 H68 Z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M56,38 H62 V44 H56 Z M68,38 H74 V44 H68 Z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M56,48 H62 V54 H56 Z M68,48 H74 V54 H68 Z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M56,58 H62 V64 H56 Z M68,58 H74 V64 H68 Z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M56,68 H62 V74 H56 Z M68,68 H74 V74 H68 Z" />
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M56,78 H62 V84 H56 Z M68,78 H74 V84 H68 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "PGFlow",
+  "description": "Premium Material 3 Property Management SaaS app for tracking properties, rent, maintenance requests, and tenants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
